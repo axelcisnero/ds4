@@ -11,4 +11,10 @@
     {
         return Math.PI * Math.Pow(radio, 2); // Área = π * r^2
     }
+
+    // Método que calcula el perímetro de un rectángulo
+    public double CalculoPerimetroRectangulo(double largo, double ancho)
+    {
+        return 2 * (largo + ancho);
+    }
 }
