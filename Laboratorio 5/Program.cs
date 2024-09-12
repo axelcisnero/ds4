@@ -1,4 +1,4 @@
-﻿internal class Program
+﻿internal class PruebaVector1
 {
     private int[] sueldos;
 
