@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 51", "Laboratorio 51.csproj", "{7679A8D9-90F4-4095-8265-543617E18AC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 51", "Laboratorio 51.csproj", "{7679A8D9-90F4-4095-8265-543617E18AC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 52", "Laboratorio 52\Laboratorio 52.csproj", "{AA382322-3232-4528-931C-505A2F4C59B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 52", "Laboratorio 52\Laboratorio 52.csproj", "{AA382322-3232-4528-931C-505A2F4C59B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 53", "Laboratorio 53\Laboratorio 53.csproj", "{4883AE6D-6737-449A-9544-026095FD0F42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 53", "Laboratorio 53\Laboratorio 53.csproj", "{4883AE6D-6737-449A-9544-026095FD0F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 54", "Laboratorio 54\Laboratorio 54.csproj", "{75EE3132-663B-40BF-ADF7-279D59D85230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 55", "Laboratorio 55\Laboratorio 55.csproj", "{B325DAFB-C18C-44C7-9D5D-1D0EE1AAA931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 56", "Laboratorio 56\Laboratorio 56.csproj", "{447142C3-259D-4D9C-9AD7-238F8E815687}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{4883AE6D-6737-449A-9544-026095FD0F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4883AE6D-6737-449A-9544-026095FD0F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4883AE6D-6737-449A-9544-026095FD0F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EE3132-663B-40BF-ADF7-279D59D85230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EE3132-663B-40BF-ADF7-279D59D85230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EE3132-663B-40BF-ADF7-279D59D85230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EE3132-663B-40BF-ADF7-279D59D85230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B325DAFB-C18C-44C7-9D5D-1D0EE1AAA931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B325DAFB-C18C-44C7-9D5D-1D0EE1AAA931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B325DAFB-C18C-44C7-9D5D-1D0EE1AAA931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B325DAFB-C18C-44C7-9D5D-1D0EE1AAA931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447142C3-259D-4D9C-9AD7-238F8E815687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447142C3-259D-4D9C-9AD7-238F8E815687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447142C3-259D-4D9C-9AD7-238F8E815687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447142C3-259D-4D9C-9AD7-238F8E815687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
