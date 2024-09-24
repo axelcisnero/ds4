@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 81", "Laboratorio 81.csproj", "{E1CE7AB1-6B26-4BFD-B602-5A8F285CB53B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 81", "Laboratorio 81.csproj", "{E1CE7AB1-6B26-4BFD-B602-5A8F285CB53B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 82", "Laboratorio 82\Laboratorio 82.csproj", "{19DACEF8-1D07-4CAA-9D32-C48B10AF7D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 82", "Laboratorio 82\Laboratorio 82.csproj", "{19DACEF8-1D07-4CAA-9D32-C48B10AF7D6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 83", "Laboratorio 83\Laboratorio 83.csproj", "{8A5B1A11-B520-49B4-B646-E00D7FA466D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 83", "Laboratorio 83\Laboratorio 83.csproj", "{8A5B1A11-B520-49B4-B646-E00D7FA466D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 84", "Laboratorio 84\Laboratorio 84.csproj", "{10749C2C-5AF1-4A26-AA10-8BAB81853C99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 84", "Laboratorio 84\Laboratorio 84.csproj", "{10749C2C-5AF1-4A26-AA10-8BAB81853C99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 85", "Laboratorio 85\Laboratorio 85.csproj", "{7C60278F-AC56-42E3-82EF-B672BDF17B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 85", "Laboratorio 85\Laboratorio 85.csproj", "{7C60278F-AC56-42E3-82EF-B672BDF17B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 86", "Laboratorio 86\Laboratorio 86.csproj", "{1F0180FA-46DE-4405-8A3D-E7E91AB7054D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio 86", "Laboratorio 86\Laboratorio 86.csproj", "{1F0180FA-46DE-4405-8A3D-E7E91AB7054D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 87", "Laboratorio 87\Laboratorio 87.csproj", "{F8D40544-1901-4E75-AF4E-A663ACD8E428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1F0180FA-46DE-4405-8A3D-E7E91AB7054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0180FA-46DE-4405-8A3D-E7E91AB7054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0180FA-46DE-4405-8A3D-E7E91AB7054D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D40544-1901-4E75-AF4E-A663ACD8E428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D40544-1901-4E75-AF4E-A663ACD8E428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D40544-1901-4E75-AF4E-A663ACD8E428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D40544-1901-4E75-AF4E-A663ACD8E428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
